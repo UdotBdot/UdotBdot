@@ -14,7 +14,7 @@
   
 <p align="center" style="font-weight:bold;">Since I was born to the Digital Era, those passions have found evolution and adaptation on the web, which help me do what I love today:</p>
 
-<div align="center":>
+<div align="center" style="font-weight:bold;">
   <div>🏀 Basketball  </div>
   <div>📖 Manga </div>
   <div>🕹 Video Games </div>️
@@ -37,9 +37,11 @@
 <div align="center">
 <h2 align="center">⚙️Languages-Frameworks⚙️</h2>
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,mongodb" /><br>
-<img src="https://skillicons.dev/icons?i=react,redux,vscode,github,figma,git" />
-</div
+<img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=react,redux,jest,scss,vscode,github,figma,git,vite,yarn" />
+<p style="font-weight:bold;">Currently learning... </p>
+<img src="https://skillicons.dev/icons?i=,docker,typescript,nextjs," />
+</div>
 
 
 
